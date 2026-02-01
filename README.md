@@ -5,7 +5,7 @@ This project allows you to create high-quality synthetic datasets in seconds usi
 1️⃣ Clone the Repository
 code
 Bash
-git clone https://github.com/yourusername/gemini-synthetic-data-generator.git
+git clone https://github.com/Seif157/Data-Generator.git
 cd gemini-synthetic-data-generator
 2️⃣ Create Virtual Environment (Recommended)
 code
@@ -123,4 +123,5 @@ Pandas for the robust data handling.
 <div align="center">
 Made with ❤️ using Google Gemini
 ⭐ Star this repo if you find it useful!
+
 </div>
